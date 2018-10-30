@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:id="@+id/rel_top"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:layout_height="@dimen/dp_40">
+
+        <Button
+            android:layout_width="@dimen/dp_60"
+            android:background="@drawable/index_back"
+            android:layout_height="@dimen/dp_40"
+            android:id="@+id/btn_rtn"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/txt_view"
+            android:text="互助救援"
+            android:textSize="@dimen/text_size_30"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/rel_top"
+        android:clickable="true" />
+
+
+
+    <Button
+        android:id="@+id/button1"
+        android:background="@drawable/custom_loc"
+        android:layout_width="@dimen/jrmf_dimen_32"
+        android:layout_height="@dimen/jrmf_dimen_32"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="10dip" />
+
+</RelativeLayout>

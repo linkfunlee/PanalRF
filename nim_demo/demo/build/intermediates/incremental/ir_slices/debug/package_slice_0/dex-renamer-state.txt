@@ -1,0 +1,4 @@
+#Sat Sep 29 10:00:16 CST 2018
+base.0=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

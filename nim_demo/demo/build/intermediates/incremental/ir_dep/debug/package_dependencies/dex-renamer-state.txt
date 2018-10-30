@@ -1,0 +1,7 @@
+#Sat Sep 29 10:00:14 CST 2018
+base.0=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\10

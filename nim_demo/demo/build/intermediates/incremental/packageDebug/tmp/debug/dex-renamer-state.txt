@@ -1,0 +1,10 @@
+#Sat Sep 29 14:14:29 CST 2018
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.1=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.0=G\:\\androidshare\\163_NIM_Android_Demo_v5.5.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\14
